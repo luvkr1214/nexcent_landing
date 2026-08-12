@@ -1,0 +1,11 @@
+{
+  "eyebrowTitleLines": ["Helping a local"],
+  "highlightPhrase": "business reinvent itself",
+  "subtitle": "We reached here with our hard work and dedication",
+  "stats": [
+    { "icon": "users", "value": "2,245,341", "label": "Members" },
+    { "icon": "sparkles", "value": "46,328", "label": "Clubs" },
+    { "icon": "trending-up", "value": "828,867", "label": "Event Bookings" },
+    { "icon": "credit-card", "value": "1,926,436", "label": "Payments" }
+  ]
+}

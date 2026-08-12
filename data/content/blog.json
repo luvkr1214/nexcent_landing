@@ -1,0 +1,31 @@
+{
+  "title": "Caring is the new marketing",
+  "description": "The Nexcent blog is the best place to read about the latest membership insights, trends and more. See who's joining the community, read about how our community are increasing their membership income and lot's more.",
+  "readMoreLabel": "Readmore",
+  "posts": [
+    {
+      "title": "Creating Streamlined Safeguarding Processes with OneRen",
+      "href": "#blog-1",
+      "image": {
+        "src": "/images/blog/blog-1.svg",
+        "alt": "Person relaxing on a sofa with a laptop by a window"
+      }
+    },
+    {
+      "title": "What are your safeguarding responsibilities and how can you manage them?",
+      "href": "#blog-2",
+      "image": {
+        "src": "/images/blog/blog-2.svg",
+        "alt": "Laptop showing charts on a desk with coffee and notebook"
+      }
+    },
+    {
+      "title": "Revamping the Membership Model with Triathlon Australia",
+      "href": "#blog-3",
+      "image": {
+        "src": "/images/blog/blog-3.svg",
+        "alt": "Hands typing on a laptop next to a notebook and plant"
+      }
+    }
+  ]
+}

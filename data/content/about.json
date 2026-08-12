@@ -1,0 +1,9 @@
+{
+  "title": "The unseen of spending three years at Pixelgrade",
+  "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta. Nullam mattis tristique iaculis. Nullam pulvinar sit amet risus pretium auctor. Etiam quis massa pulvinar, aliquam quam vitae, tempus sem. Donec elementum pulvinar odio.",
+  "cta": { "label": "Learn More", "href": "#learn-more" },
+  "image": {
+    "src": "/images/about-illustration.svg",
+    "alt": "Illustration of two people standing beside a large mobile login screen"
+  }
+}

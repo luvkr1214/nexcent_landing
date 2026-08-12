@@ -1,0 +1,14 @@
+{
+  "slides": [
+    {
+      "titleLines": ["Lessons and insights"],
+      "highlightLine": "from 8 years",
+      "description": "Where to grow your business as a photographer: site or social media?",
+      "cta": { "label": "Register", "href": "#register" },
+      "image": {
+        "src": "/images/hero-illustration.svg",
+        "alt": "Illustration of a developer standing beside two monitors displaying code and a website workflow"
+      }
+    }
+  ]
+}
